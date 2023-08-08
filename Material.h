@@ -1,5 +1,5 @@
 //Title: Material.h
-//Description: This is part of the No Man's Alchemy project in CMSC 202 @ UMBC
+//Description: This is part of the No Man's Alchemy project
 
 #ifndef MATERIAL_H //Include/Header Guard
 #define MATERIAL_H //Include/Header Guard
